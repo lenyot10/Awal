@@ -1,0 +1,44 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ContohArray",
+            "request": "launch",
+            "mainClass": "ContohArray"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstClass",
+            "request": "launch",
+            "mainClass": "FirstClass"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Latihan1",
+            "request": "launch",
+            "mainClass": "Latihan1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Menu",
+            "request": "launch",
+            "mainClass": "Menu"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Perulangan",
+            "request": "launch",
+            "mainClass": "Perulangan"
+        }
+    ]
+}
