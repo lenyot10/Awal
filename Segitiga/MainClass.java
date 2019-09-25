@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class MainClass{
     public static void main(String[]args){
-        int alas,tinggi;
+        int alas,tinggi; //komen
         java.util.Scanner sc = new Scanner(System.in);
         Segitiga Ls= new Segitiga();
         System.out.println("Berapa  Alas ");
